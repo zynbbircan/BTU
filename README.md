@@ -96,3 +96,12 @@ https://www.udemy.com/course/gns3-docker-open-vswitch-sdn-opendaylight-and-openf
   
   https://ieeexplore.ieee.org/abstract/document/8093415/authors#authors
   
+ **************** Threat to SDN articles ************************
+  
+  http://www.deepness-lab.org/pubs/infocom17_spoofing.pdf
+  https://www.opennetworking.org/wp-content/uploads/2014/10/Threat_Analysis_for_the_SDN_Architecture.pdf
+  https://www.slideshare.net/null0x00/threat-modelling-33806672
+  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7751150
+  
+ 
+  
